@@ -3,8 +3,8 @@
 ## I'm a Full-Stack Developer
 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about web3
-- 🌱 I’m currently learning Django
+- 🥅 2023 Goals: Learn more about Vector Databases
+- 🌱 I’m currently learning Django as well
 - 📫 How to reach me: e-mail a40775@gmx.com
 - 💬 Feel free to ask me any questions
 - ⚡ Fun fact: currently earning my fifth language: Korean.
