@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning how to use openclaw
 - 📫 How to reach me: e-mail a40775@gmx.com
 - 💬 Feel free to ask me any questions
-- ⚡ Fun fact: 🥳
+- ⚡ Fun fact: I never change the name of the master branch 😈
 
 ### Languages and Tools Used:
 
