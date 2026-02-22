@@ -2,12 +2,12 @@
 
 ## I'm a Full-Stack Developer
 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more about Vector Databases
-- 🌱 I’m currently learning Django as well
+- 👯 I’m not looking to collaborate with other developers
+- 🥅 2026 Goals: become the richest retard #richretards
+- 🌱 I’m currently learning how to use openclaw
 - 📫 How to reach me: e-mail a40775@gmx.com
 - 💬 Feel free to ask me any questions
-- ⚡ Fun fact: currently earning my fifth language: Korean.
+- ⚡ Fun fact: 🥳
 
 ### Languages and Tools Used:
 
@@ -31,5 +31,4 @@
 
 <img align="left" alt="Arthur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=artmikula&hide=stars,prs,issues,contribs&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-[website]: arthurmikula.com
-[linkedin]: https://linkedin.com/
+[website]: https://maps.app.goo.gl/NZTaXJwE9FYWAWQT9?g_st=ic
