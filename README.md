@@ -2,11 +2,11 @@
 
 ## I'm a Full-Stack Developer
 
-- 👯 I’m not looking to collaborate with other developers
-- 🥅 2026 Goals: become the richest retard #richretards
-- 🌱 I’m currently learning how to use openclaw
-- 📫 How to reach me: e-mail a40775@gmx.com
-- 💬 Feel free to ask me any questions
+- 👯 I’m not looking to collaborate with other developers or be a part of any gay ass team
+- 🥅 2026 Goals: become the richest retard #richretards RICHRETARDS.COM
+- 🌱 I’m currently learning how to use openclaw and I gave it access to my credit cards
+- 📫 How to reach me: e-mail a40775@gmx.com or smoke singals
+- 💬 Feel free to ask me any questions, I won't respond anyway
 - ⚡ Fun fact: I never change the name of the master branch 😈
 
 ### Languages and Tools Used:
