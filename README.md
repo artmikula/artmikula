@@ -1,34 +1,25 @@
-# Hi there, I'm Art 👋
+# Hey, I'm Art
 
-## I'm a Full-Stack Developer
+**Solo founder building AI trust infrastructure for developers.**
 
-- 👯 I’m not looking to collaborate with other developers or be a part of any gay ass team
-- 🥅 2026 Goals: become the richest retard #richretards RICHRETARDS.COM
-- 🌱 I’m currently learning how to use openclaw and I gave it access to my credit cards
-- 📫 How to reach me: e-mail a40775@gmx.com or smoke singals
-- 💬 Feel free to ask me any questions, I won't respond anyway
-- ⚡ Fun fact: I never change the name of the master branch 😈
+Former AI Trustworthiness Engineer at [ThinkforBL](https://thinkforbl.com) (Seoul) — built AI safety assessment frameworks and maturity models for Korean defense, government AI systems, and international clients. Now I'm open-sourcing the tools developers need to ship AI responsibly.
 
-### Languages and Tools Used:
+## Currently building
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+🔍 **Open-source AI compliance & trust tooling** — bringing structured AI trustworthiness assessment to the developer workflow. More coming soon.
 
-<br />
-<br />
+📱 **[Fineprint](https://fineprintapp.com)** — AI contract scanner on the App Store. Reads contracts, flags hidden fees, auto-renewals, and risky clauses in plain English.
+
+## Background
+
+- **AI Trust & Safety**: Built maturity assessment models (51 domains, 1700+ evaluation criteria), data bias detection tools (RE:IN), and compliance frameworks at ThinkforBL. Clients included Korean defense (weapons systems AI evaluation), Vietnamese and Uzbekistan governments, and Korea's TTA standards body.
+- **AI-native development**: Ship fast with Claude Code, multi-agent workflows, and agentic CI/CD. AI tooling fluency is the moat.
+- **Stack**: TypeScript, Python, React, Django, Docker, Railway, Cloudflare
+
+## Philosophy
+
+I couldn't get hired through interviews, so I started shipping publicly. Every project is a proof of work.
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="Arthur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=artmikula&hide=stars,prs,issues,contribs&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-[website]: https://maps.app.goo.gl/NZTaXJwE9FYWAWQT9?g_st=ic
+*Building in public. Open to roles at AI companies working on trust, safety, governance, and developer experience.*
