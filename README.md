@@ -2,7 +2,7 @@
 
 **Solo founder building AI trust infrastructure for developers.**
 
-Former AI Trustworthiness Engineer at [ThinkforBL](https://thinkforbl.com) (Seoul) — built AI safety assessment frameworks and maturity models for Korean defense, government AI systems, and international clients. Now I'm open-sourcing the tools developers need to ship AI responsibly.
+Former AI Trustworthiness Engineer at [ThinkforBL](https://thinkforbl.com). Built AI safety assessment frameworks and maturity models for Korean defense, government AI systems, and international clients. Now I'm open-sourcing the tools developers need to ship AI responsibly.
 
 ## Currently building
 
