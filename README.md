@@ -1,25 +1,31 @@
-# Hey, I'm Art
+# Art
 
-**Solo founder building AI trust infrastructure for developers.**
+**Founder of Centipede Software. I build tools that show developers what their AI agents can actually reach.**
 
-Former AI Trustworthiness Engineer at [ThinkforBL](https://thinkforbl.com). Built AI safety assessment frameworks and maturity models for Korean defense, government AI systems, and international clients. Now I'm open-sourcing the tools developers need to ship AI responsibly.
+## snuf
 
-## Currently building
+```
+npx snuf
+```
 
-🔍 **Open-source AI compliance & trust tooling** — bringing structured AI trustworthiness assessment to the developer workflow. More coming soon.
+One command. It finds every AI coding agent on your machine, every MCP server they load, every API key sitting in their configs, and every directory and credential they can touch. Full report, risk score, zero network calls.
 
-📱 **[Fineprint](https://fineprintapp.com)** — AI contract scanner on the App Store. Reads contracts, flags hidden fees, auto-renewals, and risky clauses in plain English.
+[github.com/artmikula/snuf](https://github.com/artmikula/snuf)
+
+## What I do
+
+- **AI agent security audits** for dev teams running Claude Code, Cursor, Copilot, Windsurf, and MCP servers. Fixed scope, fixed price, written report.
+- **Custom software and AI automation** through [Centipede Software](https://centipede.dev).
+- **[Fineprint](https://fineprintapp.com)**, an AI contract scanner on the App Store.
 
 ## Background
 
-- **AI Trust & Safety**: Built maturity assessment models (51 domains, 1700+ evaluation criteria), data bias detection tools (RE:IN), and compliance frameworks at ThinkforBL. Clients included Korean defense (weapons systems AI evaluation), Vietnamese and Uzbekistan governments, and Korea's TTA standards body.
-- **AI-native development**: Ship fast with Claude Code, multi-agent workflows, and agentic CI/CD. AI tooling fluency is the moat.
-- **Stack**: TypeScript, Python, React, Django, Docker, Railway, Cloudflare
+Spent years building AI trustworthiness assessment frameworks, maturity models, and bias detection tooling for government and defense clients before going independent. I ship with Claude Code every day, which is why I care about what it can reach.
 
-## Philosophy
+## Stack
 
-I couldn't get hired through interviews, so I started shipping publicly. Every project is a proof of work.
+TypeScript, Python, React, Node, Docker, Cloudflare, Railway
 
 ---
 
-*Building in public. Open to roles at AI companies working on trust, safety, governance, and developer experience.*
+[centipede.dev](https://centipede.dev) · [fineprintapp.com](https://fineprintapp.com)
